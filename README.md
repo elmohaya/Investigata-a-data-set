@@ -9,7 +9,7 @@ This Project aims to use pandas, numpy, and matplotlib in Python to analyze diff
 We will start first by assessing a data set programmatically through the utilization of Pandas to identify quality and tidiness issues.
 
 ### Cleaning
-After identifying the issues in the data set we will begin the cleaning process which will be aimed to fix all structure problems as well as removing untidiness.
+After identifying the issues in the data set we will begin the cleaning process which will be aimed to fix all structure and content problems.
 
 ### Proposing Questions
 This step is related to asking questions that are of practical concern as an attempt to solve real-life problems.
