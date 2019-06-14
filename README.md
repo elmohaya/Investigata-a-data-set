@@ -17,4 +17,4 @@ This step is related to asking questions that are of practical concerns as an at
 ### Visualization & Conclusion
 In this step of analyzing the data set, we will visualize the results and try to answer the proposed questions in the previous step.
 
-_ِNote: In some cases these steps may not be applied in the same order._
+_ِNote: In some cases on step may be missing or they might not be applied in the same order._
