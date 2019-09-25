@@ -15,6 +15,6 @@ After identifying the issues in the data set we will begin the cleaning process 
 This step is related to asking questions that are of practical concerns as an attempt to solve real-life problems.
 
 ### Visualization & Conclusion
-In this step of analyzing the data set, we will visualize the results and try to answer the proposed questions in the previous step.
+In this step of analyzing the data set, we will visualize the results and try to answer the proposed questions in the previous steps.
 
 _ِNote: In some cases on step may be missing or they might not be applied in the same order._
