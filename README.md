@@ -1,7 +1,7 @@
 # Data Analysis in Python
 
 ## Introduction
-This Project aims to use pandas, numpy, matplotlib, and seaborn in Python to analyze different datasets. Furthermore, statistical concepts such as regression and hypothesis testing will be used.
+This Project aims to utilize pandas, numpy, matplotlib, and seaborn in Python to analyze different datasets. Furthermore, statistical concepts such as regression and hypothesis testing will be used.
 
 ## Process
 
